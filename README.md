@@ -62,6 +62,3 @@ How to run this project :
 8- For Admin Login
     
     python manage.py createsuperuser
-Username : jestinmwill@gmail.com
-
-Password : Jesus000
